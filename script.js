@@ -1,7 +1,3 @@
-let current = "";
-let previous = "";
-let operator = "";
-
 const display = document.getElementById("display");
 
 function appendNumber(n) {
